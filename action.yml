@@ -1,5 +1,5 @@
-name: 'node9 AI Code Review & Fix'
-description: 'AI-powered code review, bug fixing, and security analysis — governed by node9'
+name: 'AI PR Review, Fix & Security Scan'
+description: 'AI agent that reviews PRs, fixes bugs, and runs a security scan — governed by node9'
 author: 'node9'
 
 branding:
