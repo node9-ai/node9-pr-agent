@@ -2,7 +2,7 @@
 
 An autonomous GitHub Action that reviews pull requests, fixes bugs, and runs a dedicated security scan — all governed by [node9](https://node9.ai).
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Node9](https://img.shields.io/badge/governed%20by-Node9-6366f1)](https://node9.ai)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776ab)](https://python.org)
 
@@ -124,4 +124,4 @@ The agent runs with `node9` in `standard` mode — every tool call (file read, f
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Apache 2.0 — see [LICENSE](LICENSE).
