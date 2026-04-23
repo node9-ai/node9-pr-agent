@@ -43,7 +43,7 @@ import tools
 # ---------------------------------------------------------------------------
 # Identity
 # ---------------------------------------------------------------------------
-configure(agent_name="ci-code-review", policy="require_approval")
+configure(agent_name="ci-code-review", policy="block_on_rules")
 
 MODEL        = "claude-sonnet-4-6"
 MAX_FIX_TURNS = 6
